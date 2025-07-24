@@ -6,7 +6,6 @@ A content-based recommendation system for movies, built with Python and Streamli
 - Recommends movies based on metadata similarity (genre, cast, description)
 - Uses **cosine similarity** and **count vectorization**
 - Displays movie posters via TMDB API
-- Sentiment analysis on user reviews (optional)
 - Live demo hosted on Heroku
 
 ## 🛠 Tech Stack
